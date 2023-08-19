@@ -84,8 +84,11 @@
     }
     .section__pic-container {
       width: auto;
-      height: 46vw;
+      height: 82vw;
       justify-content: center;
+    }
+    .profile-img{
+        height: 90vw;
     }
     .section__text__p2 {
       font-size: 1.25rem;
